@@ -4,28 +4,30 @@ This repository contains my learning and self-implemented work on Data Structure
 All concepts are studied, practiced, and implemented by me in a clear hierarchical (tree) format for better understanding.
 
 ---
-
 ## Data Structures Overview
 
-Data Structures
-│
-├── Built-in Data Structures
-│   ├── Integer
-│   ├── Float
-│   ├── Character
-│   └── Pointer
-│
-└── User Defined Data Structures
-    ├── Arrays
-    ├── Lists
-    │   ├── Linear Lists
-    │   │   ├── Stack
-    │   │   └── Queue
-    │   └── Non-Linear Lists
-    │       ├── Tree
-    │       └── Graph
-    └── Files
+- **Built-in Data Structures**
+  - Integer
+  - Float
+  - Character
+  - Pointer
 
+- **User Defined Data Structures**
+  - **Arrays**
+    - Traversal
+    - Insertion
+    - Deletion
+    - Searching
+
+  - **Lists**
+    - **Linear Lists**
+      - Stack
+      - Queue
+    - **Non-Linear Lists**
+      - Tree
+      - Graph
+
+  - **Files**
 ---
 
 ## Repository Structure
